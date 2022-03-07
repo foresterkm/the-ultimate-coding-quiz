@@ -1,6 +1,6 @@
 # the-ultimate-coding-quiz
 ## Purpose
-A timed coding quiz. 
+This is a timed coding quiz. High scores are saved in local storage and rendered on the High Scores page.
 
 ## Built With
 * HTML
@@ -8,6 +8,7 @@ A timed coding quiz.
 * JavaScript
 
 ## Website
+https://foresterkm.github.io/the-ultimate-coding-quiz/
 
 ## Contribution
 Made by Katherine Forester
